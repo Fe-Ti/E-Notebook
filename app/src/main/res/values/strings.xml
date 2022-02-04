@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="enter_pic_path">Please Enter Your Picture Path</string>
+    <string name="invalid_path">Invalid Path</string>
+    <string name="open_note">Open Note</string>
+    <string name="open_storage">Open Storage</string>
+    <string name="go_canvas_activity">Let\'s go paint something!</string>
+    <string name="refresh_button_label">Refresh screen</string>
+    <string name="eraser_button_label">Eraser</string>
+</resources>
